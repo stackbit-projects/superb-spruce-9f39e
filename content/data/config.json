@@ -71,5 +71,6 @@
             }
         ]
     },
-    "domain": "https://superb-spruce-9f39e.netlify.app"
+    "domain": "https://superb-spruce-9f39e.netlify.app",
+    "favicon": "/images/Logo (1).png"
 }
