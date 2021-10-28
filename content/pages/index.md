@@ -11,7 +11,9 @@ sections:
     section_id: latest-projects
     layout_style: tiles
     title: Proyectos
-    subtitle: Explore case studies
+    subtitle: >-
+      Participación en Ferias Nacionales e Internacionales, comunidad digital,
+      webinars, etc.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
