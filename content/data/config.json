@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "yellow",
-    "base_font": "fraunces",
+    "base_font": "karla",
     "header": {
         "logo": "/images/Logo (2160 x 1080 px) (6).png",
         "logo_alt": "Agency logo",
